@@ -2,3 +2,4 @@ hai every one
 hello
 can we meet
 hey iam studying git 
+hey now iam studying git clone
